@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Python first data scientist and econometrician researching and developing NLP algorithms to explore the relationship between economic policy and politics and market outcomes [(Github)](https://github.com/corybaird). 
+Python first data scientist and econometrician researching and developing NLP algorithms to explore the relationship between economic policy and politics and market outcomes. 
 
 PhD in Public Policy from the University of Maryland where I focused on macro-finance and monetary policy using non-structured data and computational linguistics approaches. Master in public policy graduate from the University of Tokyo with the ability to create econometric and machine learning models in the programming languages STATA, Python, and R.
 
