@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Data Scientist, Economist, Researcher
+subtitle: Data Scientist, Economist, Researcher
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 # announcements:
@@ -27,8 +27,8 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Python first data scientist and econometrician researching and developing NLP algorithms to explore the relationship between economic policy and politics and market outcomes. 
+Experienced researcher and educator able to teach and research in a variety of fields across public policy including comparative politics, international relations and economics (macroeconomics and microeconomics for development). Proficient in developing and implementing a wide array of quantitative techniques (both traditional econometric and cutting-edge machine learning methods). Broad experience in the private and public sectors, including in journalism, academic research, and government. Committed to bridging the academia-industry gap by empowering students with practical, cutting-edge skills in data science and AI for the rapidly changing labor market. 
 
-PhD in Public Policy from the University of Maryland where I focused on macro-finance and monetary policy using non-structured data and computational linguistics approaches. Master in public policy graduate from the University of Tokyo with the ability to create econometric and machine learning models in the programming languages STATA, Python, and R.
+PhD in Public Policy from the University of Maryland focusing on macro-finance and monetary policy using non-structured data and computational linguistics approaches. Master in public policy graduate from the University of Tokyo trained in rigorously trained in quantitative and qualitative methods.
 
-Proficient writer and researcher in economic policy and business-related issues with native-level command of the Japanese language. Broad experience in the private and public sectors, including in journalism, academic research, and government.
+Proficient writer and researcher in economic policy and business-related issues with native-level command of the Japanese language. 
