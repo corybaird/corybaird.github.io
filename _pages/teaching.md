@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+#description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-# Course Instructor
+### Course Instructor
 **Data Science for Public Policy - University of Tokyo** | April-July 2025
 *Adjunct Lecturer*
 * Re-designed data science coursework for master's level public policy and economics students.
@@ -19,7 +19,7 @@ nav_order: 6
 * Established and led weekly seminars on data science topics.
 * Covered data wrangling, visualization, machine learning, web scraping, and API usage.
 
-# Teaching Assistant
+### Teaching Assistant
 **Quantitative Aspects of Public Policy - University of Maryland** | 4 semesters
 *Teaching Assistant (Professor Alec Worsnop)*
 * Taught hypothesis testing and regression analysis for the school's flagship quantitative course.
@@ -30,7 +30,7 @@ nav_order: 6
 * Instructed graduate students in development economics with a focus on empirical methods.
 * Guided research projects using R, Python, and Stata.
 
-## Guest Lectures
+### Guest Lectures
 **Financial Institutions and System** | Iegor Vyshnevskyi | Sogang University
 * Delivered a master's level lecture on the applications of AI and machine learning in finance, including a coding exercise using **scikit-learn** and **pandas**.
 
