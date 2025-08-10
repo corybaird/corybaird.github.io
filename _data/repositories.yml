@@ -4,4 +4,11 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - corybaird/graspp_2025_spring
   - corybaird/DSGE_models
+  - corybaird/Macro_replication_presentations
+  - corybaird/SPP_Data_Seminar
+  - corybaird/PLCY_782_public
+  - corybaird/PLCY_610_public
+  - corybaird/2019_fall_phd
+  - corybaird/Linear_Algebra_Khan
