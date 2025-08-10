@@ -17,8 +17,4 @@ nav_order: 2
 
 {% bibliography %}
 
-## Peer Reviwer
-
-- International Review of Economics and Finance (2025 June)
-
 </div>
