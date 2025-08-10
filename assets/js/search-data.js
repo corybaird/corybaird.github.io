@@ -49,8 +49,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-auto-econ-sentiment-algorithim-database",
+          title: 'Auto-Econ (Sentiment Algorithim Database)',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
