@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-# Publications
+### Publications
 {% include bib_search.liquid %}
 
 <div class="publications">
@@ -20,6 +20,7 @@ nav_order: 2
 
 </div>
 
-# Presentations
+### Presentations
+-------------
 - Presenter, ECONDAT 2025 (BOE & ECB): Economics with nontraditional data and analytical tools 2025 Jun.
 - Presenter, Banca d’Italia Workshop on Data Science in Central Banking (4th Irving Fisher Committee of the Bank for International Settlements), 2025 Feb.
