@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Academic Researcher, Data Scientist, AI systems developer
+subtitle: Assistant Professor, The University of Tokyo · Macro, Central Bank, AI
 
 profile:
   align: right
