@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Cory Baird",
-    "label": "Assistant Professor, The University of Tokyo",
+    "label": "",
     "image": "",
     "email": "",
     "url": "https://github.com/corybaird",
@@ -100,11 +100,11 @@
   ],
   "publications": [
     {
-      "name": "The Global Database for Central Bank Communications",
-      "publisher": "",
-      "releaseDate": "Forthcoming",
-      "url": "",
-      "summary": "Co-authored with Jonathan Benchimol, Iegor Vyshnevskyi, and Wook Sohn"
+      "name": "The Monetary Policy Statement Database: An LLM Application to Global Financial Conditions",
+      "publisher": "CAMA Working Paper 25/2026",
+      "releaseDate": "2026-04",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xpxsdIIAAAAJ&citation_for_view=xpxsdIIAAAAJ:5icHVeHT4IsC",
+      "summary": "Co-authored with Jonathan Benchimol, Wook Sohn, Vira Vyshnevska, and Iegor Vyshnevskyi"
     },
     {
       "name": "The Meaning of Text: Benchmarking NLP Approaches for Central Banking",
