@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: >-
   <b>Assistant Professor, The University of Tokyo</b><br />
-  <b>Associate Editor, <a href="https://www.sciencedirect.com/journal/international-journal-of-forecasting" target="_blank" rel="noopener noreferrer">International Journal of Forecasting</a></b><br />
+  <b>Reproducibility Associate Editor, <a href="https://www.sciencedirect.com/journal/international-journal-of-forecasting" target="_blank" rel="noopener noreferrer">International Journal of Forecasting</a></b><br />
   <b>Macro, Central Bank, AI</b>
 
 profile:
