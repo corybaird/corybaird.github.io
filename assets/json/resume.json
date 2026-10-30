@@ -107,13 +107,6 @@
       "summary": "Co-authored with Jonathan Benchimol, Wook Sohn, Vira Vyshnevska, and Iegor Vyshnevskyi"
     },
     {
-      "name": "The Meaning of Text: Benchmarking NLP Approaches for Central Banking",
-      "publisher": "",
-      "releaseDate": "Forthcoming",
-      "url": "",
-      "summary": "Co-authored with Vincent Marohl, Moritz Pfeifer, and Benjamin Treitz"
-    },
-    {
       "name": "Government crisis messaging on social media, citizen online engagement and compliance with policies",
       "publisher": "Public Management Review",
       "releaseDate": "2022",
@@ -177,10 +170,10 @@
   ],
   "projects": [
     {
-      "name": "Central Bank Communications Database",
-      "summary": "Novel text database for analyzing global monetary policy communications spillovers using natural language processing tools",
-      "highlights": ["NLP", "Central Banking", "Text Analysis", "Database Development"],
-      "url": ""
+      "name": "The Monetary Policy Statement Database (MPSD)",
+      "summary": "Standardized, machine-readable dataset of 6,693 policy statements from 51 central banks worldwide (1990–2024) for research on communication trends, inflation dynamics, and policy transmission.",
+      "highlights": ["NLP", "LLMs", "Central Banking", "Reproducible Research"],
+      "url": "https://centralbanktexts.github.io/"
     },
     {
       "name": "Sentiment Library",

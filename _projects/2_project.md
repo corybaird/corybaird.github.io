@@ -9,8 +9,6 @@ giscus_comments: true
 ---
 **Auto-Econ: An Open-Source Text Algorithm Database for Monetary Policy Research**
 
-* **Details of the public release coming by Fall of 2025**
-
 * **Authors:** Cory Baird*, Vincent P. Marohl†, Moritz Pfeifer‡, Benjamin Treitz§
 
 * **Research Focus:** Addressing key challenges in applying Natural Language Processing (NLP) to monetary policy research
